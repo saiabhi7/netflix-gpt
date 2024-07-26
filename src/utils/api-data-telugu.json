@@ -1,0 +1,402 @@
+{ 
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
+      "genre_ids": [
+        18,
+        28,
+        14,
+        878
+      ],
+      "id": 801688,
+      "original_language": "te",
+      "original_title": "కల్కి 2898 - ఎ.డి",
+      "overview": "Bhairava, tired of the oppressive confines of his homeland and the perilous life of a bounty hunter, yearns for a more comfortable existence in the Complex. His quest for a new life inadvertently entangles him with a group of rebels dedicated to freeing humanity from the grip of malevolent forces.",
+      "popularity": 83.601,
+      "poster_path": "/zNE88KjSX2nDSWjdsNqeIFGAXo8.jpg",
+      "release_date": "2024-06-27",
+      "title": "Kalki 2898 AD",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 579974,
+      "original_language": "te",
+      "original_title": "రౌద్రం రణం రుధిరం",
+      "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+      "popularity": 79.46,
+      "poster_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "release_date": "2022-03-25",
+      "title": "RRR",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e9ZEuHGHZ06AToHlfN1L7nejJ7W.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 256040,
+      "original_language": "te",
+      "original_title": "బాహుబలి:ద బిగినింగ్",
+      "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+      "popularity": 41.497,
+      "poster_path": "/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+      "release_date": "2015-07-10",
+      "title": "Bāhubali: The Beginning",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 779
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gYRdSs0nC9ovtqUa99k3Oa5hD8v.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1034587,
+      "original_language": "te",
+      "original_title": "అమిగోస్",
+      "overview": "Siddharth, a youngman who runs a family business is astonished to find his doppelgängers Manjunath and Michael on getdopple.com. After meeting up in Goa, they come down to Hyderabad to help Siddarth win over Ishika, a girl looking for superman to be her husband. But things take a drastic turn when NIA swings into action to nab Michael, aka Bipin Roy.",
+      "popularity": 40.051,
+      "poster_path": "/vVBOUGpDRQTq2m8uRTmiqJaYphS.jpg",
+      "release_date": "2023-02-10",
+      "title": "Amigos",
+      "video": false,
+      "vote_average": 4.682,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cbZWpztBewq80hbCrTtTcuiLJ1W.jpg",
+      "genre_ids": [
+        18,
+        10751,
+        10749
+      ],
+      "id": 1068452,
+      "original_language": "te",
+      "original_title": "హాయ్ నాన్న",
+      "overview": "A single father begins to narrate the story of the missing mother to his child and nothing remains the same.",
+      "popularity": 33.92,
+      "poster_path": "/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg",
+      "release_date": "2023-12-07",
+      "title": "Hi Nanna",
+      "video": false,
+      "vote_average": 7.641,
+      "vote_count": 32
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 894803,
+      "original_language": "te",
+      "original_title": "సీతా రామం",
+      "overview": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter.",
+      "popularity": 32.82,
+      "poster_path": "/g3hk2wEeIsTGhh7JvK8yWFVR7ue.jpg",
+      "release_date": "2022-08-05",
+      "title": "Sita Ramam",
+      "video": false,
+      "vote_average": 7.782,
+      "vote_count": 63
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/869a5acZOHlxbRJJeQBxyGKahxl.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 894758,
+      "original_language": "te",
+      "original_title": "18 పేజెస్",
+      "overview": "When a heartbroken Siddhu stumbles upon a two-year-old diary, he finds himself drawn into the enigmatic world of a young woman named Nandini and falls for her.",
+      "popularity": 28.892,
+      "poster_path": "/d6SdWIh7gY6x84isJkfrD9SNiJ7.jpg",
+      "release_date": "2022-12-23",
+      "title": "18 Pages",
+      "video": false,
+      "vote_average": 5.625,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 350312,
+      "original_language": "te",
+      "original_title": "బాహుబలి 2: ది కన్ క్లూజన్",
+      "overview": "When Mahendra, the son of Bāhubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+      "popularity": 28.597,
+      "poster_path": "/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+      "release_date": "2017-04-28",
+      "title": "Bāhubali 2: The Conclusion",
+      "video": false,
+      "vote_average": 7.431,
+      "vote_count": 717
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ej1bwcXrRdJNUG843KIosu8srCg.jpg",
+      "genre_ids": [
+        28,
+        12,
+        9648,
+        53
+      ],
+      "id": 894762,
+      "original_language": "te",
+      "original_title": "కార్తికేయ 2",
+      "overview": "Before the Kalyug begins, Lord Krishna hands over an anklet that holds the answer to all of world’s miseries. Years later a doctor finds himself in the thick of things when the pursuit for the anklet carries on. A doctor with a curious mind, Karthikeya, aka Karthik, believes in pursuing the truth. The quest leads Karthik to discover the power of the ancient Indian belief system and the essence of Krishna.",
+      "popularity": 27.003,
+      "poster_path": "/edWhmL6RtYfpNLASxOryADemwm4.jpg",
+      "release_date": "2022-08-13",
+      "title": "Karthikeya 2",
+      "video": false,
+      "vote_average": 6.125,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iy9uFMJvzlDC3kMFPI2Fk2HJZ2x.jpg",
+      "genre_ids": [
+        28,
+        35,
+        18
+      ],
+      "id": 628241,
+      "original_language": "te",
+      "original_title": "అల వైకుంఠపురములో",
+      "overview": "Fate plays a vital role in connecting the life of Bantu, a son who seeks validation from his cold-hearted father with the life of Raj, whose millionaire father wishes that he was more assertive.",
+      "popularity": 26.102,
+      "poster_path": "/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg",
+      "release_date": "2020-01-12",
+      "title": "Ala Vaikunthapurramuloo",
+      "video": false,
+      "vote_average": 6.677,
+      "vote_count": 82
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zeFf6FnTcn0mORVVRHMehhOnwIZ.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1055200,
+      "original_language": "te",
+      "original_title": "బెదురులంక 2012",
+      "overview": "Set in a small island village of Yedurulanka,  faces the looming uncertainties of 2012, Shiva, a pragmatic youngster along with his girlfriend Chithra and friends, devise a scheme to disprove the end of the world theory and expose the plan by the trio of fake god-men, to fleece the people.",
+      "popularity": 26.085,
+      "poster_path": "/xcQZlCGOalH5V2idj8wk7ckitWg.jpg",
+      "release_date": "2023-08-25",
+      "title": "Bedurulanka 2012",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2f9YnS7JKrIqBv7dMQG8sRS2aJv.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 690957,
+      "original_language": "te",
+      "original_title": "పుష్పా - The Rise",
+      "overview": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.",
+      "popularity": 25.978,
+      "poster_path": "/kKDnGklCDRK8hrFGH4pLr7ZDA33.jpg",
+      "release_date": "2021-12-17",
+      "title": "Pushpa: The Rise",
+      "video": false,
+      "vote_average": 7.058,
+      "vote_count": 113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3fEP3Qder6MrNj7y2GdlN6BtMPC.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 454292,
+      "original_language": "te",
+      "original_title": "సాహో",
+      "overview": "A battle for power ensues as warring gangters thrive to gain possession of a \"black box\" that can make them richer than they already are, and an undercover cop intervenes with the help of his sharp intellect and an instinct to kill.",
+      "popularity": 24.937,
+      "poster_path": "/rWXIpR2uPkwb1Hrhjj2FA62FGdu.jpg",
+      "release_date": "2019-08-30",
+      "title": "Saaho",
+      "video": false,
+      "vote_average": 5.82,
+      "vote_count": 87
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s19e4PZdDN5BZ3VPmnb4lurpCEi.jpg",
+      "genre_ids": [
+        28,
+        53,
+        35
+      ],
+      "id": 892269,
+      "original_language": "te",
+      "original_title": "రావణాసుర",
+      "overview": "An investigating officer is assigned to investigate few brutal murders, where he zeroes in on Ravindra, a criminal lawyer who has penchant for secretly committing murders as the mastermind behind the crime.",
+      "popularity": 24.467,
+      "poster_path": "/lI8qMT1QtkHy2yiSpj2FCEMV0Tw.jpg",
+      "release_date": "2023-04-07",
+      "title": "Ravanasura",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/njSqJRgV4U9J7u73saYjSbiQ60V.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1150478,
+      "original_language": "te",
+      "original_title": "ఈగల్",
+      "overview": "A journalist pieces together the story of Eagle, a former professional sniper who falls in love with Rachana, and on a mission to redeem himself by working towards eradicating illegal arms from this world.",
+      "popularity": 24.277,
+      "poster_path": "/mjQN27x0Dfkmsi3SRRkAIatOr2p.jpg",
+      "release_date": "2024-02-09",
+      "title": "Eagle",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHqqYprZHMRJSv4VxDVPDPaWiVo.jpg",
+      "genre_ids": [
+        10749,
+        80,
+        53
+      ],
+      "id": 1194954,
+      "original_language": "te",
+      "original_title": "Case 30",
+      "overview": "A murder case has been assigned to Crime Branch Officer Arjun Bharadwaj. How Arjun investigates and unthreads the case is the rest of the story.",
+      "popularity": 23.908,
+      "poster_path": "/1gJ21CNU2o4k8xfDoPFzG6BUwIW.jpg",
+      "release_date": "2023-10-24",
+      "title": "Case 30",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yfc7xWwLlEacjoOH4TRgb3tAaAe.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 770906,
+      "original_language": "te",
+      "original_title": "సలార్: పార్ట్‌ 1 – సీజ్‌ఫైర్‌",
+      "overview": "Set in the fictional dystopian city-state of Khansaar, the film follows the friendship between Deva, a tribesman, and Varadha, the prince of Khansaar. When a coup d'état is planned by his father's ministers and his relatives, Varadha enlists Deva's help to become Khansaar's undisputed ruler.",
+      "popularity": 23.308,
+      "poster_path": "/wbonIVQaGmtUkZnlPIqpUBCIFdy.jpg",
+      "release_date": "2023-12-22",
+      "title": "Salaar: Part 1 - Ceasefire",
+      "video": false,
+      "vote_average": 6.645,
+      "vote_count": 62
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pe1hZrWcNDo4pu4fJR287h8vXgU.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 1150089,
+      "original_language": "te",
+      "original_title": "7:11 PM",
+      "overview": "An incident that takes place at 7:11 PM changes the fate of a town called Hamsala Deevi and a planet called Proxima-EV12. Ravi, An IPS aspirant travels beyond imagination through time to stop a criminal mastermind, save his loved ones and his beloved town.",
+      "popularity": 22.1,
+      "poster_path": "/3BNikHPFp2TCJvXRdXnBs8Tvcdv.jpg",
+      "release_date": "2023-07-07",
+      "title": "7:11 PM",
+      "video": false,
+      "vote_average": 4.4,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/L7hqV1bbk8UFjgnu17BQ3Jkokr.jpg",
+      "genre_ids": [
+        28,
+        10751,
+        10402,
+        10749
+      ],
+      "id": 494061,
+      "original_language": "te",
+      "original_title": "హలో!",
+      "overview": "Avinash/Seenu is a street urchin brought up by his loving adoptive parents Saru and Prakash. The love of his life is the girl he meets during childhood Junnu/Priya, whom fate had snatched away from him. Fourteen long years and they still wait for the day they will meet again. Will destiny help them?",
+      "popularity": 20.953,
+      "poster_path": "/bAb8vzm76WbX8ptWKLBbIDd0YWc.jpg",
+      "release_date": "2017-12-22",
+      "title": "Hello!",
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6dT9FaI4B4bHYCa5iZGZDhXovso.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1069937,
+      "original_language": "te",
+      "original_title": "ఉగ్రం",
+      "overview": "CI Shivakumar,a brash police officer, handles a lot of missing cases which has caused great strain on his marriage life. After a serious accident,Shiva admits his wife Aparna and daughter Lucky in hospital, only to find them missing next day. Will Shiva solve the mystery despite suffering from a serious medical condition?",
+      "popularity": 20.755,
+      "poster_path": "/cnsJnyCUefcHDQT1OnFgUOSR2nR.jpg",
+      "release_date": "2023-05-05",
+      "title": "Ugram",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 5
+    }
+  ],
+  "total_pages": 146,
+  "total_results": 2906
+}

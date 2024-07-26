@@ -9,6 +9,7 @@ import { auth } from "../utils/firebase";
 import { useNavigate } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { addUser } from "../store/slices/userSlice";
+import { PHOTO_URL } from "../utils/constants";
 
 const UserForm = () => {
   const [isSignInForm, setIsSignInForm] = useState(true);
@@ -27,8 +28,6 @@ const UserForm = () => {
   };
 
   const handleFormSubmit = () => {
-    console.log(email.current.value);
-    console.log(password.current.value);
     const message = validate(email.current.value, password.current.value);
 
     setErrorMessage(message);
@@ -48,7 +47,7 @@ const UserForm = () => {
 
           updateProfile(user, {
             displayName: name.current.value,
-            photoURL: "https://avatars.githubusercontent.com/u/94790671?v=4",
+            photoURL: PHOTO_URL,
           })
             .then(() => {
               // Profile updated!
@@ -61,7 +60,6 @@ const UserForm = () => {
                   uid: uid,
                 })
               );
-              navigate("/browse");
             })
             .catch((error) => {
               // An error occurred
@@ -105,7 +103,7 @@ const UserForm = () => {
   return (
     <form
       onSubmit={(e) => e.preventDefault()}
-      className="w-1/4 absolute p-8 bg-black mx-auto my-64 left-0 right-0 text-white rounded-lg bg-opacity-80"
+      className="md:w-1/4 w-[95%] absolute p-8 bg-black mx-auto my-64 left-0 right-0 text-white rounded-lg bg-opacity-80"
     >
       <h1 className="my-5 font-bold text-3xl">
         {isSignInForm ? "Sign In" : "Sign Up"}
